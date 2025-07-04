@@ -14,3 +14,6 @@ https://github.com/user-attachments/assets/026f47c4-021f-4c04-95d9-90b8781f3ce1
 ![photo_5998980847996357488_y](https://github.com/user-attachments/assets/e894f516-11ef-43e2-bb49-a7cda060ae21)
 
 
+# For more information , check sipeed websites via this link below : 
+
+    https://wiki.sipeed.com/hardware/en/tang/Tang-Nano-9K/Nano-9K.html
